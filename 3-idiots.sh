@@ -23,6 +23,7 @@
 
 #./3idiots.sh shiv rohan
 
+echo "hey this is my file"
 echo "first name is : $1"
 
 echo "second name is : $2"
